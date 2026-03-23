@@ -35,4 +35,5 @@ echo "Magreza grau III.";
 }else {
     echo "Obesidade muito Severa (grau III).";
 }
+
 ?>
